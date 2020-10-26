@@ -20,8 +20,6 @@ ${data.usage}
 ### Running tests
 ${data.test}
 
-### Contributing to the repo
-
 ## Credits
 Created by ${data.author} 
 Github profile: ${data.github}

@@ -18,16 +18,17 @@ The user should run this application in VSCode or another code editor. After exe
 ### Running tests
 To test, run 'npm run test' in the terminal.
 
-### Contributing to the repo
-
 ## Credits
-Created by Lawrence Wallace @ lwallac21
+Created by Lawrence Wallace 
+Github profile: lwallac21
+Email: lwallac21@gmail.com
 
 ![UserPhoto](https://lwallac21.github.io/Lawrence%20and%20Julia.jpg)
 
 
 ### Contributors
-No one else contributed
+No one else contributed.
+Please do not contribute to this repo. It is intended as a solo project.
 
 ## License
 This project uses the MIT license.
