@@ -1,4 +1,4 @@
-# Me Read Read me
+# Me Read Read Me
 
 ## Description
 A simple readme generator for projects on github. The app takes user responses to prompts to create a new readme, with appropriate markdown syntax and images.
@@ -22,11 +22,12 @@ To test, run 'npm run test' in the terminal.
 
 ## Credits
 Created by Lawrence Wallace @ lwallac21
-!(https://lwallac21.github.io/Lawrence%20and%20Julia.jpg)
+
+![UserPhoto](https://lwallac21.github.io/Lawrence%20and%20Julia.jpg)
 
 
 ### Contributors
-N @ o
+No one else contributed
 
 ## License
 This project uses the MIT license.

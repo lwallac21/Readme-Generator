@@ -23,12 +23,16 @@ ${data.test}
 ### Contributing to the repo
 
 ## Credits
-Created by ${data.author} @ ${data.github}
-!(${data.photo})
+Created by ${data.author} 
+Github profile: ${data.github}
+Email: ${data.email}
+
+![UserPhoto](${data.photo})
 
 
 ### Contributors
 ${data.contributors}
+${data.contribute}
 
 ## License
 This project uses the ${data.license}.
