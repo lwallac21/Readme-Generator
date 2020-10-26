@@ -5,12 +5,36 @@
 
 // function to generate markdown for README
 function generateMarkdown(data) {
-  return `# ${data.title}
-  ${data.gitub}
+  return `#${data.title}
+##Table of Contents:
+-Installation
+-Usage
+-Credits
+-License
 
-  ## Project Name
+##Installation Instructions
+${data.installation}
 
-  ${data.projectName}
+##Usage
+${data.usage}
+
+###Running tests
+${data.test}
+
+###Contributing to the repo
+
+##Credits
+Created by ${data.author} @ ${data.github}
+!(${data.photo})
+
+
+###Contributors
+${data.contributors[0]} @ ${data.contributors[1]}
+
+##License
+This project uses the ${data.license}.
+
+
 `;
 }
 
