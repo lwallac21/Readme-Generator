@@ -33,10 +33,9 @@ const questions = [
         type: "list",
         name: "license",
         choices: [
-            "MIT license",
-            "Apache license",
-            "GPL license",
-            "Public Domain"
+            "MIT",
+            "Apache",
+            "GPL",
         ]
     },
     {

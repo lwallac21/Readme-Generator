@@ -28,7 +28,7 @@ Email: lwallac21@gmail.com
 
 ### Contributors
 No one else contributed
-Please do not edit or contribute to this repo. It is a solo project.
+Please do not contribute or edit this repo. It is a solo project.
 
 ## License
-![GitHub license](https://img.shields.io/badge/license-MIT license-blue.svg)
+![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
