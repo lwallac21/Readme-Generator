@@ -33,7 +33,7 @@ ${data.contributors}
 ${data.contribute}
 
 ## License
-This project uses the ${data.license}.
+![GitHub license](https://img.shields.io/badge/license-${data.license}-blue.svg)
 `;
 }
 
